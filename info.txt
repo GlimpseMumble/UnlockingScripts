@@ -1,0 +1,4 @@
+Create a new 'Terminal' window in this folder
+run 'chmod +x ./YOUR_FILE_HERE'
+then run simply: 
+	'./YOUR_FILE_HERE'
